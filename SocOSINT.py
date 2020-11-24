@@ -397,7 +397,7 @@ def search():
 
             else:
 
-                GREEN(f'POSITIVE MATCH: Username:{username} - \033[91mtext has NOT been detected in url, >
+                GREEN(f'POSITIVE MATCH: Username:{username} - \033[91mtext has NOT been detected in url. ')
 
         count += 1
 
