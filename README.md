@@ -8,7 +8,9 @@ It scans over 70+ websites and hence can help you find more about your specifice
 git clone https://github.com/b3tar00t/SocOSINT
 cd SocOSINT
 ls
-python3 -m pip install -r requirements.txt
+chmod +x *
+pip install requests
+pip install time
 python3 SocOSINT.py
 
 # Note
